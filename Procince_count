@@ -1,0 +1,3 @@
+// In graph if you want to visit the province like where if the component is connected then the method you were doing earlier was goof where you picj the node from start and and pus it to queue and letter you give res;
+
+// but if you want it in uncoonnected where province may be diffrent or unconnected part also then you have to iterate over whole bfs part:
