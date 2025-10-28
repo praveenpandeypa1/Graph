@@ -1,1 +1,10 @@
-Graph is non linear data structure that consist of vertces and edges
+Graph is non linear data structure that consist of vertces and edges and there are lot of real life examples and principle that bfs follows:
+
+1)BFS: breadth first search it is an traversal algorithm in graph which follow the principle of FIFO means the first one come will first to go :
+
+steps of bfs algo:
+1_ take a boolean type array name as visited to keep track of weather the elemenet i am looking for have been traversaed or not if t is travered then mark it as 1 or else mark it as 0"
+
+2_ and after marking it push that element into queue
+
+3_after that apply condition where you will see the front element from queue popit and then look for its nieghour and visted them and then push the same elemnt into queue:
